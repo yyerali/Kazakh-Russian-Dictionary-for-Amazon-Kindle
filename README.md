@@ -1,6 +1,6 @@
 # Kazakh-Russian-Dictionary-for-Amazon-Kindle
 
-Неофициальная адаптация Казахско-русский словарь Бектаева К. под Amazon Kindle.
+Неофициальная адаптация Казахско-русский словаря под Amazon Kindle.
 
 Сгенерировать .mobi файл самостоятельно можно через kindlegen (сохранён только через Internet Archive) и промпт:
 `kindlegen "____свой путь____\KazRus.opf" -c1 -gen_ff_mobi7 -dont_append_source`, а скачать через Releases.
